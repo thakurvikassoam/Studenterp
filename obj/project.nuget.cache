@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x0UG4L91noCegygpJyYEoxu5jdS862XoEAEKbuMdw5nlE43QjcJLtqrIEU29+jP2aZazuqSTDf0OrD9M4I1HoQ==",
+  "dgSpecHash": "UIiVWo+Lim3B7PlImqfMDbmz+FVHuYb0qGxJB+ByH8pC23R7my/+gWA8pfqJ8ZYJWnhM4EUaC5KTzT40b4XA9w==",
   "success": true,
-  "projectFilePath": "D:\\SVSU.Student.ERP\\SVSU.Student.ERP.csproj",
+  "projectFilePath": "D:\\New folder\\SVSU.Student.ERP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vikas Soam\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Vikas Soam\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
