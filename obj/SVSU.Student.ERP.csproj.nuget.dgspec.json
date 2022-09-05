@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SVSU.Student.ERP\\SVSU.Student.ERP.csproj": {}
+    "D:\\New folder\\SVSU.Student.ERP.csproj": {}
   },
   "projects": {
-    "D:\\SVSU.Student.ERP\\SVSU.Student.ERP.csproj": {
+    "D:\\New folder\\SVSU.Student.ERP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SVSU.Student.ERP\\SVSU.Student.ERP.csproj",
+        "projectUniqueName": "D:\\New folder\\SVSU.Student.ERP.csproj",
         "projectName": "SVSU.Student.ERP",
-        "projectPath": "D:\\SVSU.Student.ERP\\SVSU.Student.ERP.csproj",
+        "projectPath": "D:\\New folder\\SVSU.Student.ERP.csproj",
         "packagesPath": "C:\\Users\\Vikas Soam\\.nuget\\packages\\",
-        "outputPath": "D:\\SVSU.Student.ERP\\obj\\",
+        "outputPath": "D:\\New folder\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
