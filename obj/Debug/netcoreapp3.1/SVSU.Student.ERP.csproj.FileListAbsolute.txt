@@ -1,0 +1,7 @@
+D:\SVSU.Student.ERP\obj\Debug\netcoreapp3.1\SVSU.Student.ERP.csproj.AssemblyReference.cache
+D:\SVSU.Student.ERP\obj\Debug\netcoreapp3.1\SVSU.Student.ERP.AssemblyInfoInputs.cache
+D:\SVSU.Student.ERP\obj\Debug\netcoreapp3.1\SVSU.Student.ERP.AssemblyInfo.cs
+D:\SVSU.Student.ERP\obj\Debug\netcoreapp3.1\SVSU.Student.ERP.csproj.CoreCompileInputs.cache
+D:\SVSU.Student.ERP\obj\Debug\netcoreapp3.1\SVSU.Student.ERP.MvcApplicationPartsAssemblyInfo.cache
+D:\SVSU.Student.ERP\obj\Debug\netcoreapp3.1\SVSU.Student.ERP.RazorAssemblyInfo.cache
+D:\SVSU.Student.ERP\obj\Debug\netcoreapp3.1\SVSU.Student.ERP.RazorAssemblyInfo.cs
